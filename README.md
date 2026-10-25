@@ -1,16 +1,26 @@
-## Hi there 👋
+# Opá! Eu sou Antony Eduardo 👋
 
-<!--
-**Antony-yy/Antony-yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Aprendendo programação por meio de projetos práticos  
+🚀 Evoluindo a cada projeto
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- JavaScript
+- HTML e CSS
+- Git e GitHub
+
+## 📂 Projetos
+
+- **EDUCON** — sistema acadêmico para gestão escolar.
+- **FichaCO** — projeto de fichas de personagens.
+- **Jaguaribe-Online** — projeto acadêmico.
+
+## 🎯 Meu objetivo
+
+Aprender, construir projetos reais e evoluir como desenvolvedor de software.
+
+---
+
+*Um projeto de cada vez.*
