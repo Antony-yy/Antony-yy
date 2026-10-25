@@ -1,4 +1,4 @@
-# Opá! Eu sou Antony Eduardo 👋
+# Opa! Eu sou Antony Eduardo 👋
 
 🎓 Estudante de Engenharia de Software  
 💻 Aprendendo programação por meio de projetos práticos  
